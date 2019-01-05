@@ -1,0 +1,8 @@
+*.png
+*.jpg
+*.pyc
+*.pyd
+dataset/**/*.png
+checkpoint/**/*.pth
+result/**/*.png
+validation/**/*.png
